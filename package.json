@@ -50,7 +50,7 @@
     "eslint-plugin-unused-imports": "^1.1.1",
     "file-loader": "^6.0.0",
     "nodemon": "^2.0.3",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "style-loader": "^1.2.1",
     "webpack": "^5.38.1",
     "webpack-cli": "^3.3.11",
